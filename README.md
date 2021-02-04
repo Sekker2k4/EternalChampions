@@ -1,5 +1,7 @@
 # EternalChampions
-TPS survival
+Leer GDD. 
+Casos de Uso.
+UML diagramas.
 
 # Dependencias
 Invector shooter template: https://www.invector.xyz/shooter-documentation
