@@ -1,2 +1,4 @@
 # EternalChampions
 TPS survival
+
+#Dependencias
