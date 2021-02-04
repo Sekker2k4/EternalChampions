@@ -13,3 +13,7 @@ Wind system for Trees and Grass for HDRP.
 
 # Game Mecanics
 Survive, kill wave monsters, explore the map, pick ammo,
+
+# playable Alpha Eternal Champions (TPS):
+https://drive.google.com/file/d/17nvPGxQRQDAJI6SpovmJqMygSzqq7cuE/view?usp=sharing
+
