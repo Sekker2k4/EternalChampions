@@ -5,8 +5,8 @@ UML diagramas.
 FSM AI Documentation.
 
 # Dependencias
-Invector shooter template: https://www.invector.xyz/shooter-documentation
-Invector FSM AI
+Invector shooter template: https://www.invector.xyz/shooter-documentation , 
+Invector FSM AI https://www.invector.xyz/aidocumentation
 
 # BasicWind
 Sistema de viento para arboles y hierbas en HDRP.
