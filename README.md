@@ -2,6 +2,7 @@
 Leer GDD. 
 Casos de Uso.
 UML diagramas.
+FSM AI Documentation.
 
 # Dependencias
 Invector shooter template: https://www.invector.xyz/shooter-documentation
