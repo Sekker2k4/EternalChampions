@@ -1,15 +1,15 @@
 # EternalChampions
-Leer GDD. 
-Casos de Uso.
-UML diagramas.
+Read GDD. 
+Use case diagram.
+UML diagrams.
 FSM AI Documentation.
 
-# Dependencias
+# Dependencies
 Invector shooter template: https://www.invector.xyz/shooter-documentation , 
 Invector FSM AI https://www.invector.xyz/aidocumentation
 
 # BasicWind
-Sistema de viento para arboles y hierbas en HDRP.
+Wind system for Trees and Grass for HDRP.
 
-# Logica del juego
-Se trata de sobrevivir y matar toda la oleada de enemigos restante, recoger algun item escondido y abrir el portal para pasar al sugiente nivel.
+# Game Mecanics
+Survive, kill wave monsters, explore the map, pick ammo,
