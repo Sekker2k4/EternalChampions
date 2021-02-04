@@ -1,4 +1,6 @@
 # EternalChampions
 TPS survival
 
-#Dependencias
+# Dependencias
+Invector shooter template.
+https://www.invector.xyz/shooter-documentation
