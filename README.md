@@ -6,6 +6,7 @@ FSM AI Documentation.
 
 # Dependencias
 Invector shooter template: https://www.invector.xyz/shooter-documentation
+Invector FSM AI
 
 # BasicWind
 Sistema de viento para arboles y hierbas en HDRP.
