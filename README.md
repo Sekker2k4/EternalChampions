@@ -1,4 +1,5 @@
 # EternalChampions
+This is my 1st project i made.
 Read GDD. 
 Use case diagram.
 UML diagrams.
